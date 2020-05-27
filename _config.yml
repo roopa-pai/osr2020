@@ -25,6 +25,7 @@ navbar-links:
     - Formats: "formats"
     - Submit: "submit"
     - Review: "review"
+    - Schedule: "schedule"
   Contribute: "contribute"
   Accessibility: "access"
   News: "news"
